@@ -1,0 +1,12 @@
+diff --git a/src/main.c b/src/main.c
+index 4a9455f..bfa6b66 100644
+--- a/src/main.c
++++ b/src/main.c
+@@ -4,6 +4,6 @@
+ int
+ main (void)
+ {
+-	printf("Hello, World!\n");
++	printf("Hello, OpenFest!\n");
+ 	return 0;
+ }
